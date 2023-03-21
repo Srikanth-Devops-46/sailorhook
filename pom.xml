@@ -12,6 +12,8 @@
 
 	<name>sailor Maven Webapp</name>
 	<!-- FIXME change it to the project's website -->
+	
+	<!-- checking webhook is workking or not -->
 	<url>http://www.example.com</url>
 
 	<properties>
